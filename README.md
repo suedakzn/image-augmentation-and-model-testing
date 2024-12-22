@@ -55,8 +55,8 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 | Test Seti                          | Doğruluk (%) |
 |------------------------------------|--------------|
 | Orijinal Test Seti                | 61.95        |
-| Manipüle Edilmiş Test Seti        | 10.41        |
-| Renk Sabitliği Uygulanmış Test Seti | 10.38         |
+| Manipüle Edilmiş Test Seti        | 10.59        |
+| Renk Sabitliği Uygulanmış Test Seti | 10.26         |
 
 ### 8. Raporlama ve İyileştirme Önerileri
 Sonuçlar, manipüle edilmiş ve renk sabitliği uygulanmış test setlerinde doğruluğun düşük olduğunu göstermektedir. İyileştirme önerileri:
