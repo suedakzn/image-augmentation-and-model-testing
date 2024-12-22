@@ -34,7 +34,7 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
 ### 3. Test Setinin Değerlendirilmesi
 - Orijinal test setiyle modelin doğruluğu hesaplandı. Sonuç:
-  - **Doğruluk:** %61.95
+  - **Doğruluk:** %61.54
 
 ### 4. Veri Artırma (Augmentation)
 - Görüntü manipülasyonu işlemleri:
@@ -43,20 +43,20 @@ Projede aşağıdaki Python kütüphaneleri kullanılmıştır:
 
 ### 5. Manipüle Edilmiş Test Setleri ile Model Değerlendirme
 - Manipüle edilmiş test setiyle model doğruluğu hesaplandı. Sonuç:
-  - **Manipüle edilmiş test doğruluğu:** %10.41
+  - **Manipüle edilmiş test doğruluğu:** %11.21
 
 ### 6. Renk Sabitliği (White Balance) ile Model Değerlendirme
 - Renk sabitliği algoritması (Gray World) uygulanmış test setiyle model doğruluğu hesaplandı. Sonuç:
-  - **Renk sabitliği uygulanmış test doğruluğu:** %10.38
+  - **Renk sabitliği uygulanmış test doğruluğu:** %10.51
 
 ### 7. Sonuçların Karşılaştırılması
 - Orijinal, manipüle edilmiş ve renk sabitliği uygulanmış test setlerinin doğruluk oranları grafikle görselleştirildi.
 
 | Test Seti                          | Doğruluk (%) |
 |------------------------------------|--------------|
-| Orijinal Test Seti                | 61.95        |
-| Manipüle Edilmiş Test Seti        | 10.59        |
-| Renk Sabitliği Uygulanmış Test Seti | 10.26         |
+| Orijinal Test Seti                | 61.54        |
+| Manipüle Edilmiş Test Seti        | 11.21        |
+| Renk Sabitliği Uygulanmış Test Seti | 10.51         |
 
 ### 8. Raporlama ve İyileştirme Önerileri
 Sonuçlar, manipüle edilmiş ve renk sabitliği uygulanmış test setlerinde doğruluğun düşük olduğunu göstermektedir. İyileştirme önerileri:
